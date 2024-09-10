@@ -11,7 +11,7 @@ import java.sql.ResultSet;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author yeymi
+ * @author it
  */
 public class Cliente extends Persona{
     private int id;

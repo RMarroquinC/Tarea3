@@ -6,7 +6,7 @@ package modelo;
 
 /**
  *
- * @author yeymi
+ * @author it
  */
 abstract class Persona {
     private String nombres,apellidos,direccion,telefono,fecha_nacimiento;

@@ -12,14 +12,14 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author yeymi
+ * @author it
  */
 public class Conexion {
     public Connection conexionBD;
     public final String bd = "db_empresa";
     public final String urlConexion = String.format("jdbc:mysql://localhost:3306/%s",bd);
     public final String usuario = "root";
-    public final String contra = "123456789";
+    public final String contra = "4Ut1E6Wb-G)v";
     public final String jdbc = "com.mysql.cj.jdbc.Driver";
     
     public void abrir_conexion(){
